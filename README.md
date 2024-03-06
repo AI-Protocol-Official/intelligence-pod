@@ -30,9 +30,9 @@ What's inside?
 Following steps were tested to work in macOS Catalina
 
 1. Clone the repository  
-    ```git clone git@github.com:AI-Protocol-Official/tiny-erc721.git```
+    ```git clone git@github.com:AI-Protocol-Official/aipod-contracts.git```
 2. Navigate into the cloned repository  
-    ```cd tiny-erc721```
+    ```cd aipod-contracts```
 3. Install [Node Version Manager (nvm)](https://github.com/nvm-sh/nvm) – latest  
     ```brew install nvm```
 4. Install [Node package manager (npm)](https://www.npmjs.com/) and [Node.js](https://nodejs.org/) – version lts/iron v20.11.1+  
